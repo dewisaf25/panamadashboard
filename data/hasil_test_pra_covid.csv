@@ -1,0 +1,3 @@
+model,kategori,MAE,RMSE,MAPE%,R2
+LightGBM (ML),ML,36.265,51.215,2.879,0.927
+Naive-168 (minggu lalu),Baseline,73.091,102.062,5.854,0.709

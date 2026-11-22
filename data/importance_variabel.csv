@@ -1,0 +1,11 @@
+,Gain % (full),ΔMAE permutasi (full),ΔMAE ablation (full),ΔMAE permutasi (eksogen-saja)
+Jam,2.49,7.295,1.121,102.443
+Hari (dow),1.769,15.177,3.934,33.915
+Hari libur,3.788,6.657,1.753,7.064
+Suhu,1.468,2.385,0.065,2.334
+Hujan/Awan (TQL),0.435,0.778,0.651,0.941
+Bulan/Musim,0.347,0.733,0.265,0.864
+Kelembapan,0.404,1.437,0.531,0.863
+Sekolah,0.026,0.254,0.288,0.028
+Angin,0.297,0.201,0.7,0.026
+Historis (lag),88.977,118.371,19.381,
